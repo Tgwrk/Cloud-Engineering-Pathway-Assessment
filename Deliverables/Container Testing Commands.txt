@@ -1,0 +1,9 @@
+Run the following commands to check if each service is working:
+
+1. Test the frontend 
+
+	curl -i http://localhost
+
+2. Test the backend API
+
+	curl -i http://localhost:3000/api/todos
